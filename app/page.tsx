@@ -6,7 +6,7 @@ import { TextHoverEffect } from "@/components/ui/text-hover-effect";
 
 
 export default function HomePage() {
-  let words = `Đây là nơi gặp gỡ những con người đam mê sáng tạo, yêu thích công nghệ như blockchain, IoT, AI, web3 và design.\n`;
+  let words = `Đây là nơi gặp gỡ những con người đam mê sáng tạo, yêu thích công nghệ tài chính và ứng dụng trí tuệ nhân tạo trong cuộc sống.\n`;
   words+= `Không phân biệt ngành nghề, lứa tuổi, chỉ cần bạn mê sáng tạo, muốn phiêu lưu tìm kiếm cái mới, thì hãy nhập hội để cùng vui!`;
 
 
